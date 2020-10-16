@@ -9,6 +9,8 @@ This applicaiton showcases various NPM packages used for formatting React applic
 
 This application consists of React components designed to be reused and modified for usage in other sites. 
 
+You would be 
+
 ## Deployment (Heroku)
 
 This applicaiton was deployed on the Heroku platform. 
