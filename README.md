@@ -9,7 +9,7 @@ This applicaiton showcases various NPM packages used for formatting React applic
 
 This application consists of React components designed to be reused and modified for usage in other sites. 
 
-You will be able to copy the component code and insert your own parameters; for example, insert your own image files and 
+You will be able to copy the component code and insert your own parameters; for example, insert your own image files to public/src and use the provided syntax with slight modification.
 
 ## Deployment (Heroku)
 
