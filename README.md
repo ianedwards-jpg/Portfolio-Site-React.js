@@ -7,6 +7,8 @@ This applicaiton showcases various NPM packages used for formatting React applic
 
 ## Usage
 
+This application
+
 ## Deployment (Heroku)
 
 This applicaiton was deployed on the Heroku platform. 
