@@ -7,7 +7,7 @@ This applicaiton showcases various NPM packages used for formatting React applic
 
 ## Usage
 
-This application
+This application consists of 
 
 ## Deployment (Heroku)
 
